@@ -12,7 +12,7 @@ My name is Tyler "TJ" Ptak and I'm a sophmore studying computer science at Purdu
 
 ## About My Mentor
 
-My mentor is Dr. Kyla McMullen, an associate professor and the director of the SoundPad Lab at the University of Florida. She's works on using singal processing to render 3-D audio and using that audio to sonify virtual environments.
+My mentor is Dr. Kyla McMullen, an associate professor and the director of the SoundPad Lab at the University of Florida. She's works on using signal processing to render 3-D audio and using that audio to sonify virtual environments.
 
 ## About My Project
 
