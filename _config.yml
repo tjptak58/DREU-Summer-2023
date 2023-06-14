@@ -9,7 +9,7 @@ name: Tyler Ptak
 description: Summer 2023 DREU Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "images/Portrait Tyler Ptak.jpeg"
+avatar: !(images/Portrait Tyler Ptak.jpeg)
 
 #
 # Flags below are optional
