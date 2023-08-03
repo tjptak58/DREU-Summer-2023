@@ -8,11 +8,11 @@ title: Summer 2023 DREU Project Site
 
 ## About Me
 
-My name is Tyler "TJ" Ptak and I'm a junior studying computer science at Purdue University. I'm also considering getting a concentration in music technology. Email: tylerptak@gmail.com
+My name is Tyler "TJ" Ptak and I'm a junior studying computer science at Purdue University. I'm also considering getting a concentration in music technology. I'm interested in all intersection between music and computer science especially audio effects and digital signal processing applications. Email: tylerptak@gmail.com
 
 ## About My Mentor
 
-My mentor is Dr. Kyla McMullen, an associate professor and the director of the SoundPad Lab at the University of Florida. She's works on the applications of sound and specifically 3-D audio. She also does a lot of work on diversity and equity in higher education.
+My mentor is Dr. Kyla McMullen, an associate professor and the director of the SoundPad Lab at the University of Florida. She works in the Human Centered Computing department and is concentrating on applications of sound - specifically 3-D audio. She also does a lot of work on diversity and equity in higher education.
 
 ## About My Project
 
